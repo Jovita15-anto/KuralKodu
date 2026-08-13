@@ -16,12 +16,6 @@ A full-stack web application that allows users to report civic issues (road dama
 - Database: MongoDB
 - Tools: Multer (file upload)
 
-## 📷 Screenshots
-(Add your screenshots here)
-
-## 🔗 Project Demo
-(Add live link later)
-
 ## 📌 Future Improvements
 - User authentication
 - AI-based complaint classification
